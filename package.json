@@ -1,0 +1,11 @@
+{
+  "name": "cochayoro",
+  "version": "1.0.0",
+  "description": "Criacao projeto base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adelino",
+  "license": "ISC"
+}
